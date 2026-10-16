@@ -1,0 +1,6 @@
+{
+  "name": "Dudu & Bubu Romantic Birthday Wonderland",
+  "description": "An interactive romantic birthday celebration website featuring adorable Dudu and Bubu cartoon animations, photo & video memories gallery, candle-blowing cake ceremony, love letters, and customizable personal memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
